@@ -2,11 +2,11 @@
 
 ## Situaciones a recordar
 
-* El curso hace uso de contenedores de docker. Luego de generar el contenedor, podemos detener su ejecución (la del jupyter notebook más exactamente) usando: ´Ctrl + c´ 
-* Para poder ejecutar nuevamente el contenedor usaremos: ´docker start ambiente-ml´
-* Para ver el contenedor ejecutandose usamos: ´docker ps´
+* El curso hace uso de contenedores de docker. Luego de generar el contenedor, podemos detener su ejecución (la del jupyter notebook más exactamente) usando: `Ctrl + c` 
+* Para poder ejecutar nuevamente el contenedor usaremos: `docker start ambiente-ml`
+* Para ver el contenedor ejecutandose usamos: `docker ps`
 
-* Para detenerlo usamos: ´docker stop ambiente-ml'
+* Para detenerlo usamos: `docker stop ambiente-ml`
 
 El repositorio del cual estoy trayendo los notebooks es: [Jhonbeltran/machine-learning-platzi][url_fork_notebooks]
 
